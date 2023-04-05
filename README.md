@@ -1,6 +1,7 @@
 # Resources-for-preparation-of-placements
 
 Resources-for-preparation-Of-Placements (Lecture video links)
+
 Programming Language Used : C
 
 Programming in C
