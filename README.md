@@ -1,4 +1,4 @@
-# Resources-for-preparation-of-placements
+# Resources-For-Preparation-Of-Placements
 
 Resources-for-preparation-Of-Placements (Lecture video links)
 
